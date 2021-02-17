@@ -1,1 +1,1 @@
-worker:dice_bot.py
+web:dice_bot.py
