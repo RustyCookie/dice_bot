@@ -97,4 +97,4 @@ async def кинуть_монетку(ctx):
 	emb.set_image(url='https://ru1.anyfad.com/items/t1@fc62187e-6cb8-49e3-9461-52932e877fc6/Monetka-Mario.jpg')
 	await ctx.send(embed=emb)
 	
-bot.run('NzkyNTA1NDE2MTA5MTI5ODE4.X-esLw.WG54yQHWInXqu_h_HeNl2eHqCCM')
+bot.run('Type token here')
